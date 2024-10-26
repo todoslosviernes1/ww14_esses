@@ -1,6 +1,6 @@
 {
   "short_name": "iStoyanov",
-  "name": "www14",
+  "name": "iStoyanov",
   "description": "I am an aspiring Full-stack Developer with focus on UI/UX Design to offer the best possible experience for clients and users.",
   "version": "1",
   "version_name": "1.0 release",
